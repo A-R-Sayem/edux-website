@@ -44,9 +44,9 @@ window.EDUX_CONFIG = {
   contact: {
     address: 'Near Bashpata Restaurant, Putijury, Bahubal, Habiganj, Bangladesh',
     // Fill these in when you have them. Empty = not shown.
-    phone: '', // e.g. '+8801XXXXXXXXX'
-    whatsapp: '', // e.g. '8801XXXXXXXXX' (digits only, with country code)
-    email: '',
+    phone: '+8801353600631', // e.g. '+8801XXXXXXXXX'
+    whatsapp: '8801353600631', // e.g. '8801XXXXXXXXX' (digits only, with country code)
+    email: 'edux.putijuri@gmail.com',
     // This is a Google Maps SEARCH link built from the address text.
     // It is NOT a verified pin. For an exact pin: open Google Maps, find
     // the centre, press Share -> Copy link, and paste it here.
@@ -57,8 +57,8 @@ window.EDUX_CONFIG = {
 
   // Empty string = hidden. Full URLs only (https://...).
   social: {
-    facebook: '',
-    instagram: '',
+    facebook: 'https://www.facebook.com/share/1Hjf5AFaYr/',
+    instagram: 'https://www.instagram.com/edux_putijuri?dlrf=MXFxaDI1cTM1czhsYw==',
     youtube: '',
     tiktok: '',
   },
